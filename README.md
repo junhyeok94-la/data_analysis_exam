@@ -1,4 +1,5 @@
 # data_analysis_exam
+빅데이터 분석기사 실기용 python 코드 예제를 만들어서 테스트한다.
 
 ## 폴더 구조
 ### 03.data_analysis_exam
